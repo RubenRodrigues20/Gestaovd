@@ -4,6 +4,19 @@
 node -v
 ```
  - Installar node no caso de não ter: nodejs.org, download e instalar
+ - Depois de instalar, rodar o mesmo comando, e algo deste genero tem de aparecer:
 [image](https://github.com/user-attachments/assets/eff5addf-87df-4565-98e5-08ad04b46579)
+
+ - Agora no VScode, instalar a extenção "prettier"
+ Para a activar: Prefeências -> Settings -> (Procurar "Format on save"), verificar a caixa correspondente.
+
+Criar a app, usando VITE: Rodar os comandos no terminal:
+```
+npn create vite@latest
+```
+Ou para criar a app usando uma versão espesifica do vite:
+```
+npn create vite@4.1.0
+```
 
 
