@@ -1,9 +1,9 @@
 GUIA PARA USO DO GIT
 
-Começamos por naturalmente instalar o git, se não tiverem:
-https://git-scm.com/, e installem nos voços pc's.
+Começamos por naturalmente instalar o Gil, se não tiverem:
+https://git-scm.com/, e instalem nos vossos pc's.
 
-Após instalarem teram um novo "terminal" chamado git bash, podem usar esse, ou qualquer outro desde que o git tenha sido adicionado ao PATH do sistema (O que normalmente acontece automaticamente na instalação se apenas clicarem "seguinte")
+Após instalarem terão um novo "terminal" chamado git bash, podem usar esse, ou qualquer outro desde que o git tenha sido adicionado ao PATH do sistema (O que normalmente acontece automaticamente na instalação se apenas clicarem "seguinte")
 
 Primeiramente têm que se identificar.
 ```
