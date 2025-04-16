@@ -53,6 +53,7 @@ npm run dev
 É possivél que surjam alguns erros no projeto, nos ficheiros
 - tsconfig.app.jason
 - tsconfig.node.jason
+
 Se isso acontecer, simplesmente comentem as linhas que dão erro.
 ```
 //
