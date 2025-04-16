@@ -11,6 +11,7 @@ node -v
  Para a activar: Prefeências -> Settings -> (Procurar "Format on save"), verificar a caixa correspondente.
 
 Criar a app, usando VITE: Rodar os comandos no terminal:
+
 ```
 npn create vite@latest
 ```
@@ -18,5 +19,39 @@ Ou para criar a app usando uma versão espesifica do vite:
 ```
 npn create vite@4.1.0
 ```
+Autorizar instalação dos packages
+```
+y
+```
+Nomear o Projeto;
+Escolher a framwork -> React;
+Escolher a linguagem -> TypeScript;
+
+PROJECTO CRIADO
+
+Navegar até a pasta do projeto
+```
+cd D:\Git\gestvid
+```
+Instalar as dependências (já dentro da pasta)
+```
+npm install
+```
+ou
+```
+npm i
+```
+Abrir o projeto no VScode
+```
+code .
+```
+Abir o terminal no VScode (Terminal -> New Terminal)
+Iniciar o servidor web (No terminal do VScode)
+```
+npm run dev
+```
+
+
+
 
 
